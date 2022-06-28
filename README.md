@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @zhimw
+- 👋 Hi, I’m @zhimw 
+- For me, learning is a lifetime experience.
 - 👀 I’m interested in computer science and software development
 - 🌱 I’m currently learning Berkely cs61b
 - 💞️ I’m looking to collaborate on ...
