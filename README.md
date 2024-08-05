@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @zhimw 
+- 👋 Hi, I’m @zhimw based in New York City.
 - For me, learning is a lifetime experience.
-- 👀 I’m interested in computer science and software development
-- 🌱 I’m currently learning database and full stack mern.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer science and software development.
+- 🌱 I’m currently learning C, operating systems and Linux kernel.
+- 💞️ I’m looking to collaborate on projects related to operating systems.
 - 📫 How to reach me ...
-
-<!---
-zhimw/zhimw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
